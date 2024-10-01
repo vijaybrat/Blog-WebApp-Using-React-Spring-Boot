@@ -49,21 +49,7 @@ Apna Blog is a full-stack blogging platform where users can add, delete, and edi
 
 ### Backend (Spring Boot)
 
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/Satyamkrjha85/apna-blog-using-react.git
-   cd apna-blog-backend
-
-   ## Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please follow the guidelines outlined in our [Contributing.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributors
-
-- [Deepak Prasad Gupta](https://github.com/Deepak28032003) - [Member 1](https://github.com/Deepak28032003/member2)
-- [Ritam Kayal](https://github.com/Ritam2000RK) - [Member 2](https://github.com/Ritam2000RK/member1)
 
