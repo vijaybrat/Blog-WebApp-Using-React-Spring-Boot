@@ -44,9 +44,7 @@ Apna Blog is a full-stack blogging platform where users can add, delete, and edi
 - IDE:
   - STS / Eclipse for Spring Boot
   - Visual Studio Code for React
-
-## Project Setup
-
+    
 ### Backend (Spring Boot)
 
 ## Contributing
