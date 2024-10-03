@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Apna Blog is a full-stack blogging platform where users can add, delete, and edit their posts, comment on others' posts, and interact with the community. The project uses React, MySQL, Bootstrap, and Spring Boot to deliver a robust and user-friendly experience.
+Apna Blog is a full-stack blogging platform where users can add, delete, and edit their posts, comment on others' posts, and interact with the community. The project uses React, MySQL, TailwindCSS, and Spring Boot to deliver a robust and user-friendly experience.
 
 ## Project Screenshots
 
