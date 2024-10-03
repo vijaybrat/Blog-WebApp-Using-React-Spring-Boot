@@ -36,7 +36,7 @@ Apna Blog is a full-stack blogging platform where users can add, delete, and edi
 
 - Frontend:
   - React
-  - Bootstrap
+  - Tailwind CSS
 - Backend:
   - Spring Boot
 - Database:
